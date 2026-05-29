@@ -1,6 +1,6 @@
 # Enterprise SE Technical Exercise Starter Repo
 
-This repository contains a small Flask + Postgres todo application intended for use as a Partner SE technical exercise.
+This repository contains a small Flask + Postgres todo application intended for use for SE technical exercise.
 
 ## Scenario
 
