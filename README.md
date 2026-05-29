@@ -1,4 +1,4 @@
-# Partner SE Technical Exercise Starter Repo
+# Enterprise SE Technical Exercise Starter Repo
 
 This repository contains a small Flask + Postgres todo application intended for use as a Partner SE technical exercise.
 
