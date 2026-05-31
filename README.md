@@ -41,6 +41,16 @@ Candidates should submit:
    - what risks or issues were reduced
    - tradeoffs they made
    - what they would do next in a real customer engagement
+3. A brief note on how you used AI tools — see the [AI tools](#ai-tools) section below
+
+## AI tools
+
+You may use AI tools (ChatGPT, Claude, Copilot, etc.) for research, code generation, and drafting your write-up — these are part of how SEs work today. We ask two things:
+
+1. In your submission, briefly describe what you used AI for and where you chose not to. This is not graded against you; we want to see how you work.
+2. The *"what would you do next in a real customer engagement"* section should reflect your own experience and judgment. We'd rather read your unpolished thinking than a polished AI draft — this is what we'll be hiring you to do in front of customers.
+
+You'll walk us through your submission live afterward, so be ready to explain every choice in your own words.
 
 ## Interviewer notes
 
